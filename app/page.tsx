@@ -14,7 +14,7 @@ export default function Home() {
                 <button className="mt-6 px-6 py-3 bg-white text-indigo-600 font-semibold rounded-2xl shadow-lg hover:bg-gray-100">Get Started</button>
             </section>
 
-            <footer className="absolute bottom-4 text-sm text-white/70">&copy; {new Date().getFullYear()} Your Ads Agency. All rights reserved.</footer>
+            <footer className="absolute bottom-4 text-sm text-white/70">&copy; {new Date().getFullYear()} adXInternet. All rights reserved.</footer>
         </div>
   );
 }
